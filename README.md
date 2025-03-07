@@ -1,12 +1,18 @@
-- 👋 Hi, I’m @krishnash648
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning MERN Stack
-- 💞️ I’m looking to collaborate on WEB APPLICATIONS
-- 📫 How to reach me ...
-- 😄 Pronouns: She
-- ⚡ Fun fact: ...
+# Hi, I'm Krishna Sharma! 👋
 
-<!---
-krishnash648/krishnash648 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub profile! I'm a passionate web developer focused on building awesome web applications. Here's a little about me:
+
+- 👀 **I'm interested in** Web Development, specifically working with **MERN Stack** (MongoDB, Express.js, React.js, Node.js)
+- 🌱 **I'm currently learning** MERN Stack and constantly exploring new technologies to improve my skills.
+- 💞️ **I'm looking to collaborate on** exciting web applications and innovative projects!
+- 📫 **How to reach me:** Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/krishna-sharma-539184215/) or drop me an email at [your-email@example.com].
+- 😄 **Pronouns:** She/Her
+- ⚡ **Fun fact:** I love experimenting with AI & ML and occasionally dive into dancing and traveling whenever I get the time!
+
+## Technologies I work with:
+- **Frontend:** React.js, HTML, CSS, JavaScript
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB
+- **Version Control:** Git & GitHub
+
+Feel free to check out my repositories and let's collaborate on building something cool! 😊
