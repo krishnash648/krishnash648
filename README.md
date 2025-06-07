@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate web developer focused on building
 - 👀 **I'm interested in** Web Development, specifically working with **MERN Stack** (MongoDB, Express.js, React.js, Node.js)
 - 🌱 **I'm currently learning** MERN Stack and constantly exploring new technologies to improve my skills.
 - 💞️ **I'm looking to collaborate on** exciting web applications and innovative projects!
-- 📫 **How to reach me:** Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/krishna-sharma-539184215/) or drop me an email at [your-email@example.com].
+- 📫 **How to reach me:** Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/krishna-sharma-539184215/) or drop me an email at [sharmakrishna1605@gmail.com].
 - 😄 **Pronouns:** She/Her
 - ⚡ **Fun fact:** I love experimenting with AI & ML and occasionally dive into dancing and traveling whenever I get the time!
 
