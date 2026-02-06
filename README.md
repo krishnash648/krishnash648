@@ -86,67 +86,59 @@
 
 ---
 
-## 🧠 DashGenie  
-<sub><b>Dashboard UI • Layout Systems • Component Thinking</b></sub>
+<div align="left">
 
-<!-- Replace this image later with a REAL screenshot or demo GIF -->
-<p align="center">
-  <img src="https://placehold.co/900x420/0f172a/7C7CFF?text=DashGenie+Dashboard+Preview" />
-</p>
+## 🧠 DashGenie
 
-A modern **dashboard-style web application** focused on clarity, structure, and UI discipline.
+<img align="right" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="260"/>
 
-**Highlights**
-- Modular dashboard layout  
+A modern **dashboard-style web application** focused on clean UI, modular components,  
+and clarity over noise.
+
+- Structured dashboard layout  
 - Reusable UI components  
-- Clean information hierarchy  
+- Real-world analytics-style patterns  
 
 **Tech:** JavaScript, HTML, CSS  
 🔗 **Code:** https://github.com/krishnash648/DashGenie
 
+<br clear="right"/>
+
 ---
 
-## 🛠 Service Desk App  
-<sub><b>Workflow Design • Data Handling • Maintainability</b></sub>
+## 🛠 Service Desk App
 
-<p align="center">
-  <img src="https://placehold.co/900x420/020617/00E0FF?text=Service+Desk+App+Workflow" />
-</p>
+<img align="right" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="260"/>
 
 A **service management application** inspired by real operational workflows.
 
-**Highlights**
-- Ticket-style flow  
-- Clear state handling  
-- Structured logic & scalability focus  
+- Ticket-style workflow  
+- Clear data & state handling  
+- Maintainable structure  
 
 **Tech:** JavaScript, Web App Architecture  
 🔗 **Code:** https://github.com/krishnash648/service-desk-app
 
+<br clear="right"/>
+
 ---
 
-## 🛒 The Velvet Cart  
-<sub><b>E-commerce UI • Interaction Patterns • Product Flow</b></sub>
+## 🛒 The Velvet Cart
 
-<p align="center">
-  <img src="https://placehold.co/900x420/020617/E4405F?text=The+Velvet+Cart+Storefront" />
-</p>
+<img align="right" src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="260"/>
 
-An **e-commerce frontend project** showcasing real product flows and interaction patterns.
+An **e-commerce-style frontend project** showcasing product flows and interaction patterns.
 
-**Highlights**
 - Product listing structure  
-- UI state handling  
-- Practical frontend logic  
+- Cart & interaction logic  
+- Practical frontend UI  
 
 **Tech:** JavaScript, Frontend Web Development  
 🔗 **Code:** https://github.com/krishnash648/the-velvet-cart
 
----
+<br clear="right"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=16&pause=1200&color=7C7CFF&width=700&lines=Building+real+things.;Learning+by+shipping.;Improving+one+project+at+a+time." />
-</p>
+</div>
 
 ---
 
