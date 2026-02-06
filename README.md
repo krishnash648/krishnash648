@@ -1,12 +1,11 @@
-<!-- HERO -->
-<h1 align="center">Hi, I’m Krishna 👋</h1>
+<!-- ===================== HERO ===================== -->
 
 <p align="center">
-  <b>MERN Stack Developer</b> · <b>Cloud Learner ☁️</b> · <b>Web Enthusiast</b>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C7CFF,100:00E0FF&height=220&section=header&text=Krishna%20Sharma&fontSize=48&fontAlignY=38&desc=MERN%20Developer%20%7C%20Cloud%20Learner%20%7C%20Web%20Enthusiast&descAlignY=60&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&pause=1000&color=7C7CFF&center=true&vCenter=true&width=850&lines=I+build+things+for+the+web.;I+love+React+%26+Backend+Architecture.;Currently+learning+Cloud+%26+Deployment.;Always+curious.+Always+building." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2200&pause=700&color=00E0FF&center=true&vCenter=true&width=900&lines=I+build+clean+%26+scalable+web+apps;React+%7C+Node+%7C+MongoDB;Exploring+Cloud+%26+AWS;Always+learning.+Always+building." />
 </p>
 
 <p align="center">
@@ -23,55 +22,79 @@
 
 ---
 
-## ✨ A Little About Me
+## ✨ About Me
 
-I’m a **MERN stack developer** who enjoys building **clean, scalable, and thoughtful web applications**.
-
-I care about:
-- writing code that’s easy to reason about  
-- building UIs that feel smooth, not clunky  
-- understanding *why* things work, not just *how*
-
-Right now, I’m diving deeper into **cloud & deployment**, trying to connect frontend work with real production systems.
+- 🌱 MERN Stack Developer focused on **clean & scalable systems**
+- ⚛️ React • Node • Express • MongoDB
+- ☁️ Learning **Cloud & Deployment** (AWS, Docker)
+- 🤝 Open to collaborations, internships & growth opportunities
+- 🧠 Curious about architecture, performance & real-world systems
 
 ---
 
-## 🧩 Tech I Enjoy Working With
+## 🧠 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,nodejs,express,mongodb,aws,docker,git,github&theme=dark" />
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css,js&theme=dark" />
+</p>
+
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" />
+</p>
+
+### ☁️ Cloud & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,postman&theme=dark" />
 </p>
 
 ---
 
-## 🚀 What I’m Focused On Right Now
-
-- Improving **React patterns & component structure**
-- Strengthening **backend fundamentals**
-- Learning **how apps actually run in production**
-- Building **real projects**, not just demos
-
----
-
-## 🌱 What I Want to Get Better At Next
-
-- CI/CD & deployment workflows  
-- Advanced AWS concepts  
-- System design basics  
-- Performance & UX polish  
+## 🚀 What I’m Currently Working On
+- Improving **React & backend architecture**
+- Learning **deployment workflows**
+- Building **real-world MERN projects**
+- Strengthening **problem-solving fundamentals**
 
 ---
 
-## 🤝 Let’s Connect
+## 🧭 What I Want to Learn Next
+- CI/CD pipelines
+- Advanced AWS services
+- System design fundamentals
+- Frontend performance & UX polish
 
-If you want to collaborate, talk tech, or just say hi:
+---
 
-- 🔗 LinkedIn → https://www.linkedin.com/in/krishna-sharma-reactjs  
-- 📸 Instagram → https://www.instagram.com/krisshxnaa  
-- 📧 Email → sharmakrishna1605@gmail.com  
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=krishnash648&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=krishnash648&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnash648&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/krishnash648/krishnash648/blob/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
 <p align="center">
-  <i>Always learning, always building — one step at a time.</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E0FF,100:7C7CFF&height=120&section=footer" />
+</p>
+
+<p align="center">
+  ✨ Always learning, always building — let’s create something meaningful.
 </p>
