@@ -74,7 +74,7 @@
 ---
 
 <p align="center">
-  ✨ <b>Not just tools — this is my playground.</b>
+  ✨ <b>Not just tools - this is my playground.</b>
 </p>
 
 ---
