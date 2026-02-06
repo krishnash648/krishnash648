@@ -140,7 +140,7 @@
 
 ## 🧠 DashGenie
 
-<img align="right" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="260"/>
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260"/>
 
 A modern **dashboard-style web application** focused on clean UI, modular components,  
 and clarity over noise.
@@ -158,7 +158,7 @@ and clarity over noise.
 
 ## 🛠 Service Desk App
 
-<img align="right" src="https://media.giphy.com/media/l0HlG9mwruTsyWNMc/giphy.gif" width="260"/>
+<img align="right" src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="260"/>
 
 A **service management application** inspired by real operational workflows.
 
@@ -175,7 +175,7 @@ A **service management application** inspired by real operational workflows.
 
 ## 🛒 The Velvet Cart
 
-<img align="right" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="260"/>
+<img align="right" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="260"/>
 
 An **e-commerce-style frontend project** showcasing real product flows and UI patterns.
 
