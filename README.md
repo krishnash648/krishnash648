@@ -109,7 +109,7 @@
 
 ### 💻 Languages I Speak
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js" />
+  <img src="https://skillicons.dev/icons?i=js" />
 </p>
 <p align="center">
   <sub>From fundamentals to production</sub>
@@ -127,13 +127,57 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3M5eWJ1YzFvY2R6ZTVkYzFjNGJ0dGpxNnE1a2w4dDk0a3J3dnh6aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7btPCcdNniyf0ArS/giphy.gif" width="260"/>
 </p>
 
-## 🧭 What I Want to Learn Next
-- CI/CD pipelines
-- Advanced AWS services
-- System design fundamentals
-- Frontend performance & UX polish
+---
+
+<!-- ===================== PROJECTS ===================== -->
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3A1bXJtY3NodG5oM2N6Z2x2d2V2M2l1bG5tM2Z1Z2Z0aWJpZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0MYC0LajbaPoEADu/giphy.gif" width="320"/>
+</p>
+
+<h2 align="center">🚀 Projects I’m Proud Of</h2>
+<p align="center"><i>Selected work that reflects how I think, build, and improve</i></p>
 
 ---
+
+### 🧠 DashGenie
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2F2dDVkY2Z1b3JxN3h6aXRkM2p0bXRjN3Z0b2R6ZzFvYjJjZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT9IgzoKnwFNmISR8I/giphy.gif" width="260"/>
+</p>
+
+A modern **dashboard-style web application** focused on clean UI, modular components, and clarity over noise.  
+Built to explore real-world frontend patterns and structured layouts.
+
+**Tech:** JavaScript, HTML, CSS  
+🔗 Code: https://github.com/krishnash648/DashGenie
+
+---
+
+### 🛠 Service Desk App
+
+A **service management application** inspired by real operational workflows.  
+Designed with emphasis on usability, data flow, and maintainable structure.
+
+**Tech:** JavaScript, Web App Architecture  
+🔗 Code: https://github.com/krishnash648/service-desk-app
+
+---
+
+### 🛒 The Velvet Cart
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzQ0N3ZzOGF5d3Fhb3Rvd3N4c2F4M3Q3Z2lqMml3dWZ0YzZ0eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7btPCcdNniyf0ArS/giphy.gif" width="260"/>
+</p>
+
+An **e-commerce-style frontend project** showcasing product flows, UI structure, and interaction patterns commonly used in real apps.
+
+**Tech:** JavaScript, Frontend Web Development  
+🔗 Code: https://github.com/krishnash648/the-velvet-cart
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=16&pause=1200&color=7C7CFF&width=700&lines=Building+real+things.;Learning+by+shipping.;Improving+one+project+at+a+time." />
+</p>
 
 ## 📊 GitHub Stats
 
