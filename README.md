@@ -1,11 +1,11 @@
 <h1 align="center">Hey 👋 I'm Krishna Sharma</h1>
 
 <h3 align="center">
-  Web Developer • MERN Stack • Cloud Learner ☁️
+  Web Developer • Cloud Learner ☁️
 </h3>
 
 <p align="center">
-  <img 
+  <img
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=800&color=7F7CFF&center=true&vCenter=true&width=650&lines=Web+Developer;MERN+Stack+Enthusiast;Learning+Cloud+%26+DevOps;Building+Cool+Things+on+the+Web"
   />
 </p>
@@ -26,12 +26,12 @@
 
 ## ✨ About Me  
 
-🌱 Passionate about building **clean, responsive, and scalable web apps**  
-⚛️ Focused on **MERN Stack** (MongoDB, Express, React, Node)  
-☁️ Exploring **Cloud, Deployment & Infrastructure fundamentals**  
-🤝 Open to **collaboration, learning & growth opportunities**  
+🌱 Passionate about building **clean, responsive, and scalable web applications**  
+⚛️ Focused on the **MERN Stack** (MongoDB, Express, React, Node)  
+☁️ Currently learning **Cloud, Deployment & Infrastructure basics**  
+🤝 Open to **collaboration and learning-driven projects**  
 😄 Pronouns: **She / Her**  
-⚡ Fun fact: I love **AI & ML**, plus **dancing & traveling**
+⚡ Fun fact: I enjoy **AI & ML**, plus **dancing & traveling**
 
 ---
 
@@ -62,12 +62,20 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krishnash648&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=krishnash648&theme=tokyonight&hide_border=true" height="160"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=krishnash648&show_icons=true&theme=tokyonight&hide_border=true"
+    height="160"
+  />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=krishnash648&theme=tokyonight&hide_border=true"
+    height="160"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnash648&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnash648&layout=compact&theme=tokyonight&hide_border=true"
+  />
 </p>
 
 ---
@@ -75,7 +83,10 @@
 ## 🐍 Contribution Snake  
 
 <p align="center">
-  <img src="https://github.com/krishnash648/krishnash648/blob/output/github-contribution-grid-snake.svg" />
+  <img
+    src="https://raw.githubusercontent.com/krishnash648/krishnash648/output/github-contribution-grid-snake.svg"
+    alt="Contribution Snake"
+  />
 </p>
 
 ---
