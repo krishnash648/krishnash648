@@ -1,40 +1,81 @@
-# Hi 👋 I'm Krishna Sharma
+<h1 align="center">Hey 👋 I'm Krishna Sharma</h1>
 
-🌱 MERN Stack Developer  
-☁️ Learning Cloud & Deployment  
-🤝 Open to Collaboration  
-😄 She / Her  
+<h3 align="center">
+  MERN Stack Developer • Cloud Learner ☁️ • Web Enthusiast
+</h3>
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=900&color=7F7CFF&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;Learning+Cloud+%26+Deployment;Building+Modern+Web+Apps;Always+Learning+New+Things" />
+</p>
 
-## 🛠️ Tech Stack
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-
-### Cloud & Tools
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+<p align="center">
+  <a href="https://www.linkedin.com/in/krishna-sharma-reactjs">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:sharmakrishna1605@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/krisshxnaa">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## 🌐 Connect with Me
+## ✨ About Me  
 
-- LinkedIn: https://www.linkedin.com/in/krishna-sharma-reactjs  
-- Instagram: https://www.instagram.com/krisshxnaa  
-- Email: sharmakrishna1605@gmail.com  
+🌱 MERN Stack developer passionate about **clean & scalable web apps**  
+⚛️ Love working with **React, Node, Express & MongoDB**  
+☁️ Currently learning **Cloud & Deployment (AWS, Docker)**  
+🤝 Open to **collaboration, internships & learning opportunities**  
+😄 Pronouns: **She / Her**  
+⚡ Fun fact: I enjoy **AI & ML**, dancing 💃 & traveling ✈️  
 
 ---
 
-✨ Always learning, always building.
+## 🛠️ Tech Stack  
+
+### 🎨 Frontend  
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css,js&theme=dark" />
+</p>
+
+### ⚙️ Backend  
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" />
+</p>
+
+### ☁️ Cloud & Tools  
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,postman&theme=dark" />
+</p>
+
+---
+
+## 🚀 What I’m Currently Working On  
+
+- Improving **React & backend architecture**
+- Learning **deployment workflows**
+- Exploring **real-world MERN projects**
+- Strengthening **problem-solving & fundamentals**
+
+---
+
+## 🌱 What I Want to Learn Next  
+
+- CI/CD basics  
+- Advanced AWS services  
+- System design fundamentals  
+- Better frontend performance & UX  
+
+---
+
+## 🌐 Let’s Connect  
+
+- 🔗 LinkedIn: https://www.linkedin.com/in/krishna-sharma-reactjs  
+- 📸 Instagram: https://www.instagram.com/krisshxnaa  
+- 📧 Email: sharmakrishna1605@gmail.com  
+
+---
+
+✨ <i>Always learning, always building — let’s create something meaningful together.</i>
