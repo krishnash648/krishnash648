@@ -1,14 +1,12 @@
-<!-- HERO SECTION -->
-<h1 align="center">Hey 👋 I'm Krishna Sharma</h1>
-
-<h3 align="center">
-  MERN Stack Developer • Cloud Learner ☁️ • Web Enthusiast
-</h3>
+<!-- HERO -->
+<h1 align="center">Hi, I’m Krishna 👋</h1>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&pause=900&color=8B5CF6&center=true&vCenter=true&width=800&lines=Building+Modern+Web+Applications;MERN+Stack+Developer;Learning+Cloud+%26+DevOps;Turning+Ideas+Into+Products"
-  />
+  <b>MERN Stack Developer</b> · <b>Cloud Learner ☁️</b> · <b>Web Enthusiast</b>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&pause=1000&color=7C7CFF&center=true&vCenter=true&width=850&lines=I+build+things+for+the+web.;I+love+React+%26+Backend+Architecture.;Currently+learning+Cloud+%26+Deployment.;Always+curious.+Always+building." />
 </p>
 
 <p align="center">
@@ -25,67 +23,55 @@
 
 ---
 
-<!-- ABOUT -->
-## ✨ About Me
+## ✨ A Little About Me
 
-🌱 MERN Stack developer focused on **clean & scalable web apps**  
-⚛️ Love working with **React, Node, Express & MongoDB**  
-☁️ Currently learning **Cloud & Deployment (AWS, Docker)**  
-🤝 Open to **collaboration, internships & growth opportunities**  
-😄 Pronouns: **She / Her**  
-⚡ Fun fact: I enjoy **AI & ML**, dancing 💃 & traveling ✈️  
+I’m a **MERN stack developer** who enjoys building **clean, scalable, and thoughtful web applications**.
+
+I care about:
+- writing code that’s easy to reason about  
+- building UIs that feel smooth, not clunky  
+- understanding *why* things work, not just *how*
+
+Right now, I’m diving deeper into **cloud & deployment**, trying to connect frontend work with real production systems.
 
 ---
 
-<!-- TECH STACK -->
-## 🛠️ Tech Stack
+## 🧩 Tech I Enjoy Working With
 
-### 🎨 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,js&theme=dark" />
-</p>
-
-### ⚙️ Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" />
-</p>
-
-### ☁️ Cloud & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,postman&theme=dark" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,nodejs,express,mongodb,aws,docker,git,github&theme=dark" />
 </p>
 
 ---
 
-<!-- CURRENT WORK -->
-## 🚀 What I’m Currently Working On
+## 🚀 What I’m Focused On Right Now
 
-- Improving **React & backend architecture**
-- Learning **deployment workflows**
-- Exploring **real-world MERN projects**
-- Strengthening **problem-solving & fundamentals**
-
----
-
-<!-- NEXT GOALS -->
-## 🌱 What I Want to Learn Next
-
-- CI/CD basics  
-- Advanced AWS services  
-- System design fundamentals  
-- Better frontend performance & UX  
+- Improving **React patterns & component structure**
+- Strengthening **backend fundamentals**
+- Learning **how apps actually run in production**
+- Building **real projects**, not just demos
 
 ---
 
-<!-- FOOTER -->
-## 🌐 Let’s Connect
+## 🌱 What I Want to Get Better At Next
 
-- 🔗 LinkedIn: https://www.linkedin.com/in/krishna-sharma-reactjs  
-- 📸 Instagram: https://www.instagram.com/krisshxnaa  
-- 📧 Email: sharmakrishna1605@gmail.com  
+- CI/CD & deployment workflows  
+- Advanced AWS concepts  
+- System design basics  
+- Performance & UX polish  
+
+---
+
+## 🤝 Let’s Connect
+
+If you want to collaborate, talk tech, or just say hi:
+
+- 🔗 LinkedIn → https://www.linkedin.com/in/krishna-sharma-reactjs  
+- 📸 Instagram → https://www.instagram.com/krisshxnaa  
+- 📧 Email → sharmakrishna1605@gmail.com  
 
 ---
 
 <p align="center">
-  ✨ <i>Always learning, always building — let’s create something meaningful together.</i>
+  <i>Always learning, always building — one step at a time.</i>
 </p>
