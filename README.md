@@ -32,21 +32,85 @@
 
 ---
 
-## 🧠 Tech Stack
+<!-- ===================== TECH UNIVERSE ===================== -->
 
-### 🎨 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,js&theme=dark" />
+<h2 align="center">🌌 My Tech Universe</h2>
+<p align="center"><i>Tools I build with, experiment with, and obsess over</i></p>
+
+---
+
+### ⚛️ Core Web Powers
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,vite" />
+</p>
+<p align="center">
+  <sub>Modern UI • Fast builds • Clean components</sub>
 </p>
 
-### ⚙️ Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" />
+---
+
+### 🧠 Backend & APIs
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres" />
+</p>
+<p align="center">
+  <sub>Scalable APIs • Auth • Databases that don’t cry</sub>
 </p>
 
-### ☁️ Cloud & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,postman&theme=dark" />
+---
+
+### ☁️ Cloud, DevOps & Deployment
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,netlify" />
+</p>
+<p align="center">
+  <sub>Deploy • Ship • Break • Fix • Repeat</sub>
+</p>
+
+---
+
+### 📱 Mobile Experiments
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart" />
+</p>
+<p align="center">
+  <sub>Cross-platform curiosity zone</sub>
+</p>
+
+---
+
+### 🎨 Design & Creative Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,canva" />
+</p>
+<p align="center">
+  <sub>Design sense > just code</sub>
+</p>
+
+---
+
+### 🛠️ Daily Driver Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,postman" />
+</p>
+<p align="center">
+  <sub>Debugging marathons & API therapy</sub>
+</p>
+
+---
+
+### 💻 Languages I Speak
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,js" />
+</p>
+<p align="center">
+  <sub>From fundamentals to production</sub>
+</p>
+
+---
+
+<p align="center">
+  ✨ <b>Not just tools. This is my playground.</b>
 </p>
 
 ---
