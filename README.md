@@ -29,14 +29,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=krishnash648&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnash648&layout=compact&theme=tokyonight)
-
----
-
 ## 🌐 Connect with Me
 
 - LinkedIn: https://www.linkedin.com/in/krishna-sharma-reactjs  
@@ -45,4 +37,4 @@
 
 ---
 
-✨ *Always learning, always building.*
+✨ Always learning, always building.
