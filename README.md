@@ -1,13 +1,11 @@
 <h1 align="center">Hey 👋 I'm Krishna Sharma</h1>
 
 <h3 align="center">
-  Web Developer • Cloud Learner ☁️
+  Web Developer • MERN Stack • Cloud Learner ☁️
 </h3>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=800&color=7F7CFF&center=true&vCenter=true&width=650&lines=Web+Developer;MERN+Stack+Enthusiast;Learning+Cloud+%26+DevOps;Building+Cool+Things+on+the+Web"
-  />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=900&color=7F7CFF&center=true&vCenter=true&width=650&lines=Web+Developer;MERN+Stack+Enthusiast;Learning+Cloud+%26+DevOps;Building+Cool+Things+on+the+Web" />
 </p>
 
 <p align="center">
@@ -28,7 +26,7 @@
 
 🌱 Passionate about building **clean, responsive, and scalable web applications**  
 ⚛️ Focused on the **MERN Stack** (MongoDB, Express, React, Node)  
-☁️ Currently learning **Cloud, Deployment & Infrastructure basics**  
+☁️ Exploring **Cloud, Deployment & Infrastructure fundamentals**  
 🤝 Open to **collaboration and learning-driven projects**  
 😄 Pronouns: **She / Her**  
 ⚡ Fun fact: I enjoy **AI & ML**, plus **dancing & traveling**
@@ -39,27 +37,27 @@
 
 ### 🎨 Frontend  
 <p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,js&perline=6" />
+  <img src="https://skillicons.dev/icons?i=react,html,css,js" />
 </p>
 
 ### ⚙️ Backend  
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&perline=6" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
 
 ### ☁️ Cloud & Infrastructure  
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,nginx,githubactions&perline=6" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,nginx,githubactions" />
 </p>
 
 ### 🔧 Tools  
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman&perline=6" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=krishnash648&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
@@ -75,10 +73,8 @@
 ## 🐍 Contribution Snake  
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/krishnash648/krishnash648/output/github-contribution-grid-snake.svg"
-    alt="Contribution Snake"
-  />
+  <!-- Snake will appear after GitHub Action runs -->
+  <img src="https://raw.githubusercontent.com/krishnash648/krishnash648/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
