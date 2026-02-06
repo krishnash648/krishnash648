@@ -125,7 +125,7 @@ A **service management application** inspired by real operational workflows.
 
 ## 🛒 The Velvet Cart
 
-<img align="right" src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="260"/>
+<img align="right" src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="260"/>
 
 An **e-commerce-style frontend project** showcasing product flows and interaction patterns.
 
