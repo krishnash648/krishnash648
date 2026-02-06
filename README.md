@@ -131,57 +131,70 @@
 
 <!-- ===================== PROJECTS ===================== -->
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2R2d2F2ZzR5b2F4c3M3dHRzMW5rdmF0N2U2dWJ0aTgyZ3l5aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlG9mwruTsyWNMc/giphy.gif" width="320"/>
-</p>
-
 <h2 align="center">🚀 Projects I’m Proud Of</h2>
 <p align="center"><i>Selected work that reflects how I think, build, and improve</i></p>
 
 ---
 
-### 🧠 DashGenie
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXpsb2M4cTBnY2N3d2Q5ZXRjN25uZTZmM2w4MWd5bW95Y3o2NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" width="260"/>
-</p>
+<div align="left">
 
-A modern **dashboard-style web application** focused on clean UI, modular components, and clarity over noise.  
-Built to explore real-world frontend patterns and structured layouts.
+## 🧠 DashGenie
+
+<img align="right" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="260"/>
+
+A modern **dashboard-style web application** focused on clean UI, modular components,  
+and clarity over noise.
+
+- Structured layout system  
+- Reusable UI components  
+- Real-world dashboard patterns  
 
 **Tech:** JavaScript, HTML, CSS  
-🔗 Code: https://github.com/krishnash648/DashGenie
+🔗 **Code:** https://github.com/krishnash648/DashGenie
+
+<br clear="right"/>
 
 ---
 
-### 🛠 Service Desk App
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWw2aW1qZHZpOXp6dHh4ZXF5c2I4ZW1nN3l0c2l0NHp1b3A3YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7btNhMnyrxz0u3wA/giphy.gif" width="260"/>
-</p>
+## 🛠 Service Desk App
 
-A **service management application** inspired by real operational workflows.  
-Designed with emphasis on usability, data flow, and maintainable structure.
+<img align="right" src="https://media.giphy.com/media/l0HlG9mwruTsyWNMc/giphy.gif" width="260"/>
+
+A **service management application** inspired by real operational workflows.
+
+- Ticket-style flow  
+- Clear data handling  
+- Maintainable structure  
 
 **Tech:** JavaScript, Web App Architecture  
-🔗 Code: https://github.com/krishnash648/service-desk-app
+🔗 **Code:** https://github.com/krishnash648/service-desk-app
+
+<br clear="right"/>
 
 ---
 
-### 🛒 The Velvet Cart
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3B0NGZ0Y2F4N2FsdWV5cWF3N3J5dXl0dWw0c2R2MTR5YzVwdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPnAiaMCws8nOsE/giphy.gif" width="260"/>
-</p>
+## 🛒 The Velvet Cart
 
-An **e-commerce-style frontend project** showcasing product flows, UI structure, and interaction patterns commonly used in real applications.
+<img align="right" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="260"/>
+
+An **e-commerce-style frontend project** showcasing real product flows and UI patterns.
+
+- Product listing & structure  
+- Interaction-focused UI  
+- Practical frontend logic  
 
 **Tech:** JavaScript, Frontend Web Development  
-🔗 Code: https://github.com/krishnash648/the-velvet-cart
+🔗 **Code:** https://github.com/krishnash648/the-velvet-cart
+
+<br clear="right"/>
+
+</div>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=16&pause=1200&color=7C7CFF&width=700&lines=Turning+ideas+into+interfaces.;Designing+before+coding.;Shipping+features+that+matter." />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=16&pause=1200&color=7C7CFF&width=700&lines=Building+real+things.;Learning+by+shipping.;Improving+one+project+at+a+time." />
 </p>
-
 
 ## 📊 GitHub Stats
 
