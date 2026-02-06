@@ -109,7 +109,7 @@
 
 ### 💻 Languages I Speak
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,js" />
+  <img src="https://skillicons.dev/icons?i=react,js" />
 </p>
 <p align="center">
   <sub>From fundamentals to production</sub>
