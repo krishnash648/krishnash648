@@ -96,5 +96,5 @@
 </p>
 
 <p align="center">
-  ✨ Always learning, always building — let’s create something meaningful.
+  ✨ Always learning, always building - let’s create something meaningful.
 </p>
