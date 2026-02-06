@@ -32,24 +32,88 @@
 
 ---
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C7CFF,100:00E0FF&height=4" />
+
 <!-- ===================== TECH UNIVERSE ===================== -->
 
-## 🚀 My Skill Evolution
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2000&pause=500&color=00E0FF&width=700&lines=Started+with+HTML+%26+CSS;Fell+in+love+with+React;Built+APIs+with+Node+%26+Express;Now+learning+Cloud+%26+System+Design" />
-
-🔹 Frontend → React • Tailwind • UX  
-🔹 Backend → Node • Express • REST APIs  
-🔹 Cloud → AWS • Docker • CI/CD (learning)  
----
-
-## 🚀 What I’m Currently Working On
-- Improving **React & backend architecture**
-- Learning **deployment workflows**
-- Building **real-world MERN projects**
-- Strengthening **problem-solving fundamentals**
+<h2 align="center">🌌 My Tech Universe</h2>
+<p align="center"><i>Tools I build with, experiment with, and obsess over</i></p>
 
 ---
+
+### ⚛️ Core Web Powers
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,vite" />
+</p>
+<p align="center">
+  <sub>Modern UI • Fast builds • Clean components</sub>
+</p>
+
+---
+
+### 🧠 Backend & APIs
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres" />
+</p>
+<p align="center">
+  <sub>Scalable APIs • Auth • Databases that don’t cry</sub>
+</p>
+
+---
+
+### ☁️ Cloud, DevOps & Deployment
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,netlify" />
+</p>
+<p align="center">
+  <sub>Deploy • Ship • Break • Fix • Repeat</sub>
+</p>
+
+---
+
+### 📱 Mobile Experiments
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart" />
+</p>
+<p align="center">
+  <sub>Cross-platform curiosity zone</sub>
+</p>
+
+---
+
+### 🎨 Design & Creative Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,canva" />
+</p>
+<p align="center">
+  <sub>Design sense > just code</sub>
+</p>
+
+---
+
+### 🛠️ Daily Driver Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,postman" />
+</p>
+<p align="center">
+  <sub>Debugging marathons & API therapy</sub>
+</p>
+
+---
+
+### 💻 Languages I Speak
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,js" />
+</p>
+<p align="center">
+  <sub>From fundamentals to production</sub>
+</p>
+
+---
+
+<p align="center">
+  ✨ <b>Not just tools. This is my playground.</b>
+</p>
 
 ## 🧭 What I Want to Learn Next
 - CI/CD pipelines
