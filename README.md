@@ -1,3 +1,4 @@
+<!-- HERO SECTION -->
 <h1 align="center">Hey 👋 I'm Krishna Sharma</h1>
 
 <h3 align="center">
@@ -5,54 +6,59 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=900&color=7F7CFF&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;Learning+Cloud+%26+Deployment;Building+Modern+Web+Apps;Always+Learning+New+Things" />
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&pause=900&color=8B5CF6&center=true&vCenter=true&width=800&lines=Building+Modern+Web+Applications;MERN+Stack+Developer;Learning+Cloud+%26+DevOps;Turning+Ideas+Into+Products"
+  />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/krishna-sharma-reactjs">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="mailto:sharmakrishna1605@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
   </a>
   <a href="https://www.instagram.com/krisshxnaa">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
   </a>
 </p>
 
 ---
 
-## ✨ About Me  
+<!-- ABOUT -->
+## ✨ About Me
 
-🌱 MERN Stack developer passionate about **clean & scalable web apps**  
+🌱 MERN Stack developer focused on **clean & scalable web apps**  
 ⚛️ Love working with **React, Node, Express & MongoDB**  
 ☁️ Currently learning **Cloud & Deployment (AWS, Docker)**  
-🤝 Open to **collaboration, internships & learning opportunities**  
+🤝 Open to **collaboration, internships & growth opportunities**  
 😄 Pronouns: **She / Her**  
 ⚡ Fun fact: I enjoy **AI & ML**, dancing 💃 & traveling ✈️  
 
 ---
 
-## 🛠️ Tech Stack  
+<!-- TECH STACK -->
+## 🛠️ Tech Stack
 
-### 🎨 Frontend  
+### 🎨 Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=react,html,css,js&theme=dark" />
 </p>
 
-### ⚙️ Backend  
+### ⚙️ Backend
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" />
 </p>
 
-### ☁️ Cloud & Tools  
+### ☁️ Cloud & Tools
 <p>
   <img src="https://skillicons.dev/icons?i=aws,docker,git,github,postman&theme=dark" />
 </p>
 
 ---
 
-## 🚀 What I’m Currently Working On  
+<!-- CURRENT WORK -->
+## 🚀 What I’m Currently Working On
 
 - Improving **React & backend architecture**
 - Learning **deployment workflows**
@@ -61,7 +67,8 @@
 
 ---
 
-## 🌱 What I Want to Learn Next  
+<!-- NEXT GOALS -->
+## 🌱 What I Want to Learn Next
 
 - CI/CD basics  
 - Advanced AWS services  
@@ -70,7 +77,8 @@
 
 ---
 
-## 🌐 Let’s Connect  
+<!-- FOOTER -->
+## 🌐 Let’s Connect
 
 - 🔗 LinkedIn: https://www.linkedin.com/in/krishna-sharma-reactjs  
 - 📸 Instagram: https://www.instagram.com/krisshxnaa  
@@ -78,4 +86,6 @@
 
 ---
 
-✨ <i>Always learning, always building — let’s create something meaningful together.</i>
+<p align="center">
+  ✨ <i>Always learning, always building — let’s create something meaningful together.</i>
+</p>
