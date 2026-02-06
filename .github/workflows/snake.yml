@@ -5,17 +5,21 @@ on:
     - cron: "0 0 * * *"   # runs daily
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Generate GitHub contribution snake
+      - name: Generate contribution snake
         uses: Platane/snk@v3
         with:
           github_user_name: krishnash648
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Push snake to output branch
         uses: crazy-max/ghaction-github-pages@v3
