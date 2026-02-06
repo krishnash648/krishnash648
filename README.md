@@ -1,62 +1,70 @@
-<h1 align="center">Hi 👋, I'm Krishna Sharma</h1>
+<h1 align="center">Hey 👋 I'm Krishna Sharma</h1>
 <h3 align="center">Web Developer | MERN Stack & Cloud Learner ☁️🚀</h3>
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=6F5DE7&center=true&vCenter=true&width=600&lines=Web+Developer;MERN+Stack+Enthusiast;Learning+Cloud+%26+Deployment;Building+Cool+Stuff" />
+</p>
 
-## 🌟 About Me  
-
-I’m a passionate web developer focused on building scalable and user-friendly web applications.
-
-- 👀 Interested in **Web Development** with a focus on the **MERN Stack**
-- 🌱 Currently learning **MERN Stack** along with **Cloud & Deployment fundamentals**
-- 💞️ Open to collaborating on **web applications and innovative projects**
-- 😄 Pronouns: **She / Her**
-- ⚡ Fun fact: I enjoy experimenting with **AI & ML**, and love **dancing & traveling**
-
----
-
-## 🌐 Connect With Me  
-
-<p align="left">
-<a href="https://www.linkedin.com/in/krishna-sharma-reactjs" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:sharmakrishna1605@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://www.instagram.com/krisshxnaa" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/krishna-sharma-reactjs">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:sharmakrishna1605@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/krisshxnaa">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## 🛠️ Technologies I Work With  
+## ✨ About Me  
 
-### 🎨 Frontend  
-- React.js  
-- HTML  
-- CSS  
-- JavaScript  
-
-### ⚙️ Backend  
-- Node.js  
-- Express.js  
-
-### 🗄️ Database  
-- MongoDB  
-
-### ☁️ Cloud & Infrastructure  
-- AWS (EC2, S3 - basics)  
-- Docker (container fundamentals)  
-- GitHub Actions (CI/CD basics)  
-- Nginx (basic server & reverse proxy setup)  
-
-### 🔧 Version Control & Tools  
-- Git  
-- GitHub  
-- Postman  
+🌱 Passionate about building **clean, responsive, and scalable web apps**  
+⚛️ Focused on **MERN Stack** (MongoDB, Express, React, Node)  
+☁️ Currently learning **Cloud, Deployment & Infrastructure basics**  
+🤝 Open to **collaborations & learning-driven projects**  
+😄 Pronouns: **She / Her**  
+⚡ Fun fact: I enjoy **AI & ML**, plus **dancing & traveling**
 
 ---
 
-✨ *Always learning, always building - feel free to check out my repositories and connect!*
+## 🛠️ Tech Stack  
+
+### 🎨 Frontend  
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css,js" />
+</p>
+
+### ⚙️ Backend  
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+### ☁️ Cloud & Infrastructure  
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,nginx,githubactions" />
+</p>
+
+### 🔧 Tools  
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman" />
+</p>
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=krishnash648&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishnash648&theme=tokyonight" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnash648&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+✨ *Always learning, always building — let’s create something meaningful together.*
