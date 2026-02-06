@@ -67,7 +67,7 @@
 
 ### 🎨 Design & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,canva,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=figma,vscode,postman" />
 </p>
 <p align="center"><sub>Design sense + debugging discipline</sub></p>
 
