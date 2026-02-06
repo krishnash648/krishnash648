@@ -9,6 +9,10 @@
 </p>
 
 <p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3JwZHBhOXF0a2lqNWp6bG9yZ2RrbGd4NnZ0N2ZqZ2t6eXQ0d3Z5ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" width="120"/>
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/krishna-sharma-reactjs">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
@@ -32,7 +36,9 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C7CFF,100:00E0FF&height=4" />
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXRhNnZrNjN6Y3FhbDVpM2l1a2VvZG9zZDV0b3N4b3h3a2l6ZzFzdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xUPGcguWZHRC2HyBRS/giphy.gif" width="320"/>
+</p>
 
 <!-- ===================== TECH UNIVERSE ===================== -->
 
@@ -115,6 +121,12 @@
   ✨ <b>Not just tools. This is my playground.</b>
 </p>
 
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3M5eWJ1YzFvY2R6ZTVkYzFjNGJ0dGpxNnE1a2w4dDk0a3J3dnh6aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7btPCcdNniyf0ArS/giphy.gif" width="260"/>
+</p>
+
 ## 🧭 What I Want to Learn Next
 - CI/CD pipelines
 - Advanced AWS services
@@ -146,6 +158,10 @@
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2Y0N2tmb2U5ZWl6N3ZrZ2VhZHF3dG9ydmp6cmxqN3k4d2Rmb3p6eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif" width="160"/>
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E0FF,100:7C7CFF&height=120&section=footer" />
