@@ -14,7 +14,9 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/krishna-sharma-reactjs">
-   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-in&logoColor=white"/>
+  <img height="28" src="https://cdn.simpleicons.org/linkedin/0A66C2" />
+</a>
+</p>
   </a>
   <a href="mailto:sharmakrishna1605@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=google&logoColor=white"/>
