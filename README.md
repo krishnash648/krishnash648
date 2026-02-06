@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=900&color=7F7CFF&center=true&vCenter=true&width=650&lines=Web+Developer;MERN+Stack+Enthusiast;Learning+Cloud+%26+DevOps;Building+Cool+Things+on+the+Web" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=800&color=7F7CFF&center=true&vCenter=true&width=600&lines=Web+Developer;MERN+Stack+Enthusiast;Learning+Cloud+Basics;Building+Cool+Web+Apps" />
 </p>
 
 <p align="center">
@@ -24,10 +24,10 @@
 
 ## ✨ About Me
 
-🌱 Passionate about building **clean, responsive, scalable web apps**  
-⚛️ Focused on **MERN Stack**  
-☁️ Learning **Cloud & Deployment fundamentals**  
-🤝 Open to **collaboration & growth**  
+🌱 Passionate about building **clean and responsive web applications**  
+⚛️ Working with the **MERN Stack**  
+☁️ Learning **Cloud & deployment basics**  
+🤝 Open to **collaboration and learning**  
 😄 Pronouns: **She / Her**
 
 ---
