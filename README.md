@@ -29,7 +29,7 @@
 - 🌱 MERN Stack Developer focused on **clean & scalable systems**
 - ⚛️ React • Node • Express • MongoDB
 - ☁️ Learning **Cloud & Deployment** (AWS, Docker)
-- 🤝 Open to collaborations, internships & growth opportunities
+- 🤝 Open to collaborations, Jobs & growth opportunities
 - 🧠 Curious about architecture, performance & real-world systems
 
 ---
