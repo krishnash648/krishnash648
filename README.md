@@ -63,6 +63,11 @@
 # 🚀 Featured Projects
 
 ### ☸️ Kubernetes Microservices on AWS EKS
+
+<p align="center">
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="600"/>
+</p>
+
 Production-style microservices deployment using Kubernetes.
 
 **Stack**
@@ -81,6 +86,10 @@ https://github.com/krishnash648/eks-kubernetes-deployment
 ---
 
 ### ☁️ Terraform AWS Infrastructure Modules
+
+<p align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="600"/>
+</p>
 
 Infrastructure as Code project provisioning AWS resources using Terraform modules.
 
