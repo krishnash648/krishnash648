@@ -123,7 +123,7 @@ https://github.com/krishnash648/terraform-aws-modules
 
 ---
 
-# 💻 Most Used Languages
+# 📈 GitHub Activity
 
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krishnash648&theme=tokyonight"/>
