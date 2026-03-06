@@ -126,7 +126,7 @@ https://github.com/krishnash648/terraform-aws-modules
 # 💻 Most Used Languages
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=krishnash648&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krishnash648&theme=tokyonight"/>
 </p>
 
 ---
