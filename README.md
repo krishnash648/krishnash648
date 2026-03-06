@@ -51,7 +51,7 @@ Currently focused on:
 ## ☸️ Kubernetes Microservices on AWS EKS
 
 <p align="center">
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="600"/>
+<img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="250"/>
 </p>
 
 Production-style microservices deployment using Kubernetes.
@@ -74,7 +74,7 @@ https://github.com/krishnash648/eks-kubernetes-deployment
 ## ☁️ Terraform AWS Infrastructure Modules
 
 <p align="center">
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/5409775/devops.gif" width="600"/>
+<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="250"/>
 </p>
 
 Infrastructure as Code provisioning using Terraform.
