@@ -66,7 +66,7 @@ Stack
 - Redis
 - Horizontal Pod Autoscaler
 
-🔗  
+🔗  Github:
 https://github.com/krishnash648/eks-kubernetes-deployment
 
 ---
@@ -88,7 +88,7 @@ Stack
 - RDS
 - S3
 
-🔗  
+🔗  Github:
 https://github.com/krishnash648/terraform-aws-modules
 
 ---
