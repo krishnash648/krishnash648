@@ -1,5 +1,3 @@
-<!-- ================= HEADER ================= -->
-
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C7CFF,100:00E0FF&height=220&section=header&text=Krishna%20Sharma&fontSize=48&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20AWS%20%7C%20Terraform%20%7C%20Kubernetes&descAlignY=60&animation=fadeIn"/>
 </p>
@@ -10,12 +8,6 @@
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=krishnash648&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"/>
-</p>
-
----
-
-<p align="center">
-<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="700"/>
 </p>
 
 ---
@@ -59,7 +51,7 @@ Currently focused on:
 ## ☸️ Kubernetes Microservices on AWS EKS
 
 <p align="center">
-<img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="600"/>
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="600"/>
 </p>
 
 Production-style microservices deployment using Kubernetes.
@@ -82,7 +74,7 @@ https://github.com/krishnash648/eks-kubernetes-deployment
 ## ☁️ Terraform AWS Infrastructure Modules
 
 <p align="center">
-<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="600"/>
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/5409775/devops.gif" width="600"/>
 </p>
 
 Infrastructure as Code provisioning using Terraform.
@@ -122,11 +114,11 @@ https://github.com/krishnash648/terraform-aws-modules
 # 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=krishnash648&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=krishnash648&show_icons=true&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=krishnash648&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=krishnash648&theme=tokyonight"/>
 </p>
 
 ---
@@ -168,7 +160,7 @@ https://github.com/krishnash648/terraform-aws-modules
 ---
 
 <p align="center">
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500"/>
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500"/>
 </p>
 
 ✨ Building scalable systems with code and cloud.
