@@ -51,7 +51,7 @@ Currently focused on:
 ## ☸️ Kubernetes Microservices on AWS EKS
 
 <p align="center">
-<img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="250"/>
+<img align="right" src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="200"/>
 </p>
 
 Production-style microservices deployment using Kubernetes.
