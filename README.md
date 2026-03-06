@@ -123,10 +123,10 @@ https://github.com/krishnash648/terraform-aws-modules
 
 ---
 
-# 📈 GitHub Activity
+## ⚙️ DevOps Toolkit
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krishnash648&theme=tokyonight"/>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,linux,git,githubactions,bash,nginx"/>
 </p>
 
 ---
