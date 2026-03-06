@@ -65,7 +65,7 @@
 ### ☸️ Kubernetes Microservices on AWS EKS
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/45159366/108631459-3b87f900-7481-11eb-9a4e-3c9c6b63c879.gif" width="650"/>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="600">
 </p>
 
 Production-style microservices deployment using Kubernetes.
