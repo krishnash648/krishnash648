@@ -74,7 +74,7 @@ https://github.com/krishnash648/eks-kubernetes-deployment
 ## ☁️ Terraform AWS Infrastructure Modules
 
 <p align="center">
-<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="250"/>
+<img align="right" src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="200"/>
 </p>
 
 Infrastructure as Code provisioning using Terraform.
