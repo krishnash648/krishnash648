@@ -14,72 +14,53 @@
 
 ---
 
+<p align="center">
+<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="700"/>
+</p>
+
+---
+
 # 👋 Hello there! Welcome to my GitHub
 
 I'm **Krishna Sharma**, a DevOps & Cloud enthusiast passionate about building scalable infrastructure and automated deployments.
 
 Currently focused on:
 
-- Cloud Infrastructure
+- AWS Infrastructure
 - Kubernetes Deployments
-- Infrastructure as Code
-- Automation & CI/CD
-
----
-
-# ☁️ DevOps & Cloud Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,linux,git,githubactions"/>
-</p>
-
----
-
-# ⚙️ Backend Development
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres"/>
-</p>
-
----
-
-# 🎨 Frontend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind"/>
-</p>
+- Terraform Automation
+- CI/CD pipelines
 
 ---
 
 # 🌌 My Tech Universe
 
-### Cloud & DevOps
-
-![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws)
-![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?style=for-the-badge&logo=kubernetes)
-![Terraform](https://img.shields.io/badge/Terraform-purple?style=for-the-badge&logo=terraform)
-
-### Development
-
-![NodeJS](https://img.shields.io/badge/NodeJS-green?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
-![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
+| 🎨 Frontend | ⚙️ Backend | ☁️ DevOps | 🗄 Databases |
+|-------------|-----------|-----------|-------------|
+| React | NodeJS | AWS | MongoDB |
+| JavaScript | Express | Docker | PostgreSQL |
+| HTML | REST APIs | Kubernetes | Redis |
+| CSS | APIs | Terraform | SQL |
 
 ---
 
 # 🛠 Tools & Workflow
 
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-![VSCode](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
-![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman)
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,linux,git,githubactions,vscode"/>
+
+</p>
 
 ---
 
 # 🚀 Featured Projects
 
-### ☸️ Kubernetes Microservices on AWS EKS
+## ☸️ Kubernetes Microservices on AWS EKS
+
+<p align="center">
+<img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="600"/>
+</p>
 
 Production-style microservices deployment using Kubernetes.
 
@@ -98,7 +79,11 @@ https://github.com/krishnash648/eks-kubernetes-deployment
 
 ---
 
-### ☁️ Terraform AWS Infrastructure Modules
+## ☁️ Terraform AWS Infrastructure Modules
+
+<p align="center">
+<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="600"/>
+</p>
 
 Infrastructure as Code provisioning using Terraform.
 
@@ -116,20 +101,21 @@ https://github.com/krishnash648/terraform-aws-modules
 
 ---
 
-# 🚀 Current Focus & Learning
+# 🚀 Current Focus & Learning Roadmap
 
-- Deepening knowledge in **AWS architecture**
-- Improving **Terraform module design**
-- Scaling applications with **Kubernetes**
-- Learning **CI/CD automation**
+- 🚀 Deepening AWS architecture knowledge
+- ☸️ Scaling systems with Kubernetes
+- ⚙️ Writing reusable Terraform modules
+- 🔄 Building automated CI/CD pipelines
+- 📊 Monitoring infrastructure
 
 ---
 
 # 💡 Development Philosophy
 
-| 🎯 Quality | 🚀 Automation | 🌱 Growth |
-|------------|--------------|-----------|
-| Clean Infrastructure | Automate repetitive tasks | Continuous learning |
+| 🎨 Clean Design | 🚀 Automation | 🌱 Continuous Growth |
+|----------------|---------------|---------------------|
+| Build scalable infrastructure | Automate repetitive tasks | Learn every day |
 
 ---
 
@@ -180,5 +166,9 @@ https://github.com/krishnash648/terraform-aws-modules
 </p>
 
 ---
+
+<p align="center">
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500"/>
+</p>
 
 ✨ Building scalable systems with code and cloud.
