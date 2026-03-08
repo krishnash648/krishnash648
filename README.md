@@ -163,4 +163,4 @@ https://github.com/krishnash648/terraform-aws-modules
 <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500"/>
 </p>
 
-✨ Building scalable systems with code and cloud.
+✨ Building scalable systems with code and cloud!
