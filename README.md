@@ -47,16 +47,22 @@ I focus on writing clean code, creating smooth UI experiences, and building real
 
 # 🚀 Featured Projects
 
+---
+
 ## 💎 DashGenie – Admin Dashboard
+
+<p align="center">
+<img align="right" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="220"/>
+</p>
 
 A modern admin dashboard built for managing tasks, analytics, and workflows with a clean UI.
 
-Stack
+**Stack**
 
-- React.js
-- Tailwind CSS
-- REST APIs
-- State Management
+- React.js  
+- Tailwind CSS  
+- REST APIs  
+- State Management  
 
 🔗 https://krishnash648.github.io/DashGenie/
 
@@ -64,13 +70,17 @@ Stack
 
 ## 🛒 The Velvet Cart – E-commerce UI
 
+<p align="center">
+<img align="right" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="220"/>
+</p>
+
 A sleek and responsive e-commerce interface inspired by premium UI designs.
 
-Stack
+**Stack**
 
-- React.js
-- Tailwind CSS
-- Responsive Design
+- React.js  
+- Tailwind CSS  
+- Responsive Design  
 
 🔗 https://krishnash648.github.io/the-velvet-cart/
 
@@ -78,14 +88,18 @@ Stack
 
 ## 🧾 Service Desk App – Ticket System
 
+<p align="center">
+<img align="right" src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="220"/>
+</p>
+
 A full-stack ticketing system with role-based access and admin controls.
 
-Stack
+**Stack**
 
-- React.js
-- Firebase
-- Razorpay Integration
-- Role-based Authentication
+- React.js  
+- Firebase  
+- Razorpay Integration  
+- Authentication  
 
 🔗 https://service-desk-app-vegu.vercel.app/login
 
