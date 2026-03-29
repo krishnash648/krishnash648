@@ -8,6 +8,8 @@
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=krishnash648&label=PROFILE+VIEWS&color=F59E0B&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/krishnash648?style=for-the-badge&color=F59E0B"/>
+<img src="https://img.shields.io/github/stars/krishnash648?style=for-the-badge&color=F59E0B"/>
 </p>
 
 ---
@@ -16,7 +18,17 @@
 
 I'm **Krishna Sharma**, a Full Stack Developer focused on building scalable and user-friendly web applications.
 
-I specialize in clean UI, maintainable code, and real-world product development.
+I specialize in **clean UI, maintainable code, and real-world product development**.
+
+---
+
+# ⚡ What I Bring
+
+- 🚀 Build full stack apps from scratch (Frontend + Backend)
+- 🎨 Strong UI sense (clean, modern, responsive)
+- ⚙️ API integration & real-world logic handling
+- 📦 Scalable architecture mindset
+- 🧠 Fast learner + execution focused
 
 ---
 
@@ -37,8 +49,6 @@ Explore my full portfolio showcasing real-world projects, clean UI design, and s
 </td>
 </tr>
 </table>
-
----
 
 ---
 
@@ -151,11 +161,11 @@ A full-stack ticketing system with role-based access and admin controls.
 
 ---
 
-# 💡 Development Philosophy
+# 📈 Contribution Graph
 
-| 🎨 Clean UI | ⚙️ Scalable Code | 🚀 Real Projects |
-|------------|----------------|----------------|
-| Focus on user experience | Write maintainable code | Build practical applications |
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=krishnash648&theme=tokyo-night&bg_color=000000&color=F59E0B&line=F59E0B&point=FFFFFF"/>
+</p>
 
 ---
 
