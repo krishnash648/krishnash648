@@ -14,9 +14,9 @@
 
 # 👋 Hello there! Welcome to my GitHub
 
-I'm **Krishna Sharma**, a Full Stack Developer with hands-on experience building scalable and user-friendly web applications.
+I'm **Krishna Sharma**, a Full Stack Developer focused on building scalable and user-friendly web applications.
 
-I focus on writing clean code, creating smooth UI experiences, and building real-world products.
+I specialize in clean UI, maintainable code, and real-world product development.
 
 ---
 
@@ -33,7 +33,7 @@ I focus on writing clean code, creating smooth UI experiences, and building real
 | React.js | Node.js | MongoDB | Git |
 | JavaScript (ES6+) | Express.js | PostgreSQL | GitHub |
 | HTML5 | REST APIs | Firebase | Postman |
-| CSS3 / Tailwind | Authentication | | AWS |
+| CSS3 / Tailwind | Authentication |  | AWS |
 
 ---
 
@@ -52,13 +52,12 @@ I focus on writing clean code, creating smooth UI experiences, and building real
 ## 💎 DashGenie – Admin Dashboard
 
 <p align="right">
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="220"/>
+<img src="./assets/dashgenie.gif" width="260"/>
 </p>
 
 A modern admin dashboard built for managing tasks, analytics, and workflows with a clean UI.
 
 **Stack**
-
 - React.js  
 - Tailwind CSS  
 - REST APIs  
@@ -66,36 +65,38 @@ A modern admin dashboard built for managing tasks, analytics, and workflows with
 
 🔗 https://krishnash648.github.io/DashGenie/
 
+<br clear="both"/>
+
 ---
 
 ## 🛒 The Velvet Cart – E-commerce UI
 
 <p align="right">
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="220"/>
+<img src="./assets/velvet-cart.gif" width="260"/>
 </p>
 
 A sleek and responsive e-commerce interface inspired by premium UI designs.
 
 **Stack**
-
 - React.js  
 - Tailwind CSS  
 - Responsive Design  
 
 🔗 https://krishnash648.github.io/the-velvet-cart/
 
+<br clear="both"/>
+
 ---
 
 ## 🧾 Service Desk App – Ticket System
 
 <p align="right">
-<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="220"/>
+<img src="./assets/portfolio.gif" width="260"/>
 </p>
 
 A full-stack ticketing system with role-based access and admin controls.
 
 **Stack**
-
 - React.js  
 - Firebase  
 - Razorpay Integration  
@@ -103,14 +104,16 @@ A full-stack ticketing system with role-based access and admin controls.
 
 🔗 https://service-desk-app-vegu.vercel.app/login
 
+<br clear="both"/>
+
 ---
 
 # 🚀 Current Focus
 
-- Improving full stack architecture
-- Building scalable backend systems
-- Writing clean and maintainable code
-- Enhancing UI/UX for real-world apps
+- Improving full stack architecture  
+- Building scalable backend systems  
+- Writing clean and maintainable code  
+- Enhancing UI/UX for real-world apps  
 
 ---
 
@@ -155,7 +158,7 @@ A full-stack ticketing system with role-based access and admin controls.
 ---
 
 <p align="center">
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500"/>
+<img src="./assets/portfolio.gif" width="500"/>
 </p>
 
 ✨ Building real-world full stack applications with clean UI and scalable architecture.
