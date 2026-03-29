@@ -22,13 +22,30 @@ I specialize in **clean UI, maintainable code, and real-world product developmen
 
 ---
 
-# ⚡ What I Bring
+# ⚡ Highlights
 
-- 🚀 Build full stack apps from scratch (Frontend + Backend)
-- 🎨 Strong UI sense (clean, modern, responsive)
-- ⚙️ API integration & real-world logic handling
-- 📦 Scalable architecture mindset
-- 🧠 Fast learner + execution focused
+- 🚀 Built multiple real-world full stack applications  
+- 🎯 Strong focus on UI/UX and performance  
+- 🔗 Hands-on with APIs, authentication, and dashboards  
+- ⚙️ Experience across frontend + backend systems  
+
+---
+
+# 🏆 Core Strengths
+
+- 🎨 UI/UX Oriented Development  
+- ⚙️ Full Stack Problem Solving  
+- 📦 Scalable Code Structure  
+- 🚀 Fast Execution & Learning  
+
+---
+
+# 🧠 How I Approach Development
+
+- Break complex problems into small scalable modules  
+- Focus on UI/UX before writing heavy logic  
+- Keep components reusable and maintainable  
+- Optimize performance only where it matters  
 
 ---
 
@@ -45,7 +62,9 @@ Explore my full portfolio showcasing real-world projects, clean UI design, and s
 </td>
 
 <td width="35%">
+<a href="https://portfolio-pi-eight-epcw8688vr.vercel.app">
 <img src="./assets/portfolio.gif" width="100%"/>
+</a>
 </td>
 </tr>
 </table>
@@ -89,12 +108,19 @@ A modern admin dashboard built for managing tasks, analytics, and workflows with
 - REST APIs  
 - State Management  
 
+**Impact**
+- ⚡ Scalable dashboard architecture  
+- 📊 Improved UI clarity  
+- 📱 Fully responsive  
+
 🔗 https://krishnash648.github.io/DashGenie/
 
 </td>
 
 <td width="35%">
+<a href="https://krishnash648.github.io/DashGenie/">
 <img src="./assets/dashgenie.gif" width="100%"/>
+</a>
 </td>
 </tr>
 </table>
@@ -114,12 +140,19 @@ A sleek and responsive e-commerce interface inspired by premium UI designs.
 - Tailwind CSS  
 - Responsive Design  
 
+**Impact**
+- 🛍️ Premium UI experience  
+- ⚡ Smooth interactions  
+- 📱 Fully responsive  
+
 🔗 https://krishnash648.github.io/the-velvet-cart/
 
 </td>
 
 <td width="35%">
+<a href="https://krishnash648.github.io/the-velvet-cart/">
 <img src="./assets/velvet-cart.gif" width="100%"/>
+</a>
 </td>
 </tr>
 </table>
@@ -140,6 +173,11 @@ A full-stack ticketing system with role-based access and admin controls.
 - Razorpay Integration  
 - Authentication  
 
+**Impact**
+- 🔐 Role-based system  
+- 📊 Structured workflow  
+- ⚡ Real-world use case  
+
 🔗 https://service-desk-app-vegu.vercel.app/login
 
 </td>
@@ -152,12 +190,32 @@ A full-stack ticketing system with role-based access and admin controls.
 
 ---
 
+# 🚧 Currently Building
+
+- Scalable full-stack app with authentication & dashboards  
+- Exploring better backend architecture  
+- Improving UI performance  
+
+---
+
 # 🚀 Current Focus
 
 - Improving full stack architecture  
 - Building scalable backend systems  
 - Writing clean and maintainable code  
-- Enhancing UI/UX for real-world apps  
+- Enhancing UI/UX  
+
+---
+
+# 💻 Developer Mode
+
+<p align="center">
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500"/>
+</p>
+
+- 💡 Prefer real-world builds over tutorials  
+- ⚡ Focused on performance + clean code  
+- 🔥 Always experimenting with UI/UX  
 
 ---
 
@@ -173,6 +231,10 @@ A full-stack ticketing system with role-based access and admin controls.
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=krishnash648&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnash648&layout=compact&theme=tokyonight"/>
 </p>
 
 <p align="center">
@@ -202,7 +264,7 @@ A full-stack ticketing system with role-based access and admin controls.
 ---
 
 <p align="center">
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
 </p>
 
-✨ Building real-world full stack applications with clean UI and scalable architecture.
+💼 Open to opportunities — let’s build something impactful together.
