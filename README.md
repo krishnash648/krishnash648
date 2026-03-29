@@ -1,113 +1,110 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C7CFF,100:00E0FF&height=220&section=header&text=Krishna%20Sharma&fontSize=48&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20AWS%20%7C%20Terraform%20%7C%20Kubernetes&descAlignY=60&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A1A,100:F59E0B&height=220&section=header&text=Krishna%20Sharma&fontSize=48&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20React%20%7C%20Node%20%7C%20MongoDB&descAlignY=60&animation=fadeIn"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2200&pause=700&color=00E0FF&center=true&vCenter=true&width=900&lines=DevOps+Engineer;Cloud+Infrastructure;Terraform+Automation;Kubernetes+Deployments"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2200&pause=700&color=F59E0B&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Building+Scalable+Web+Apps;Clean+UI+%2B+Real+World+Projects;React+%7C+Node+%7C+MongoDB"/>
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=krishnash648&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=krishnash648&label=PROFILE+VIEWS&color=F59E0B&style=for-the-badge"/>
 </p>
 
 ---
 
 # 👋 Hello there! Welcome to my GitHub
 
-I'm **Krishna Sharma**, a DevOps & Cloud enthusiast passionate about building scalable infrastructure and automated deployments.
+I'm **Krishna Sharma**, a Full Stack Developer with hands-on experience building scalable and user-friendly web applications.
 
-Currently focused on:
-
-- AWS Infrastructure
-- Kubernetes Deployments
-- Terraform Automation
-- CI/CD pipelines
+I focus on writing clean code, creating smooth UI experiences, and building real-world products.
 
 ---
 
-# 🌌 My Tech Universe
+# 🚀 Portfolio
 
-| 🎨 Frontend | ⚙️ Backend | ☁️ DevOps | 🗄 Databases |
-|-------------|-----------|-----------|-------------|
-| React | NodeJS | AWS | MongoDB |
-| JavaScript | Express | Docker | PostgreSQL |
-| HTML | REST APIs | Kubernetes | Redis |
-| CSS | APIs | Terraform | SQL |
+🔗 https://portfolio-pi-eight-epcw8688vr.vercel.app
+
+---
+
+# 🌌 My Tech Stack
+
+| 🎨 Frontend | ⚙️ Backend | 🗄 Database | ⚡ Tools |
+|------------|-----------|------------|--------|
+| React.js | Node.js | MongoDB | Git |
+| JavaScript (ES6+) | Express.js | PostgreSQL | GitHub |
+| HTML5 | REST APIs | Firebase | Postman |
+| CSS3 / Tailwind | Authentication | | AWS |
 
 ---
 
 # 🛠 Tools & Workflow
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,linux,git,githubactions,vscode"/>
-
+<img src="https://skillicons.dev/icons?i=react,js,nodejs,express,mongodb,postgres,git,github,postman,aws,vscode"/>
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
-## ☸️ Kubernetes Microservices on AWS EKS
+## 💎 DashGenie – Admin Dashboard
 
-<p align="center">
-<img align="right" src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="200"/>
-</p>
-
-Production-style microservices deployment using Kubernetes.
+A modern admin dashboard built for managing tasks, analytics, and workflows with a clean UI.
 
 Stack
 
-- AWS EKS
-- Docker
-- Kubernetes
-- Helm
-- NGINX Ingress
-- Redis
-- Horizontal Pod Autoscaler
+- React.js
+- Tailwind CSS
+- REST APIs
+- State Management
 
-🔗  Github:
-https://github.com/krishnash648/eks-kubernetes-deployment
+🔗 https://krishnash648.github.io/DashGenie/
 
 ---
 
-## ☁️ Terraform AWS Infrastructure Modules
+## 🛒 The Velvet Cart – E-commerce UI
 
-<p align="center">
-<img align="right" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200"/>
-</p>
-
-Infrastructure as Code provisioning using Terraform.
+A sleek and responsive e-commerce interface inspired by premium UI designs.
 
 Stack
 
-- Terraform
-- AWS
-- VPC
-- EC2
-- RDS
-- S3
+- React.js
+- Tailwind CSS
+- Responsive Design
 
-🔗  Github:
-https://github.com/krishnash648/terraform-aws-modules
+🔗 https://krishnash648.github.io/the-velvet-cart/
 
 ---
 
-# 🚀 Current Focus & Learning Roadmap
+## 🧾 Service Desk App – Ticket System
 
-- 🚀 Deepening AWS architecture knowledge
-- ☸️ Scaling systems with Kubernetes
-- ⚙️ Writing reusable Terraform modules
-- 🔄 Building automated CI/CD pipelines
-- 📊 Monitoring infrastructure
+A full-stack ticketing system with role-based access and admin controls.
+
+Stack
+
+- React.js
+- Firebase
+- Razorpay Integration
+- Role-based Authentication
+
+🔗 https://service-desk-app-vegu.vercel.app/login
+
+---
+
+# 🚀 Current Focus
+
+- Improving full stack architecture
+- Building scalable backend systems
+- Writing clean and maintainable code
+- Enhancing UI/UX for real-world apps
 
 ---
 
 # 💡 Development Philosophy
 
-| 🎨 Clean Design | 🚀 Automation | 🌱 Continuous Growth |
-|----------------|---------------|---------------------|
-| Build scalable infrastructure | Automate repetitive tasks | Learn every day |
+| 🎨 Clean UI | ⚙️ Scalable Code | 🚀 Real Projects |
+|------------|----------------|----------------|
+| Focus on user experience | Write maintainable code | Build practical applications |
 
 ---
 
@@ -123,22 +120,6 @@ https://github.com/krishnash648/terraform-aws-modules
 
 ---
 
-## ⚙️ DevOps Toolkit
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,linux,git,githubactions,bash,nginx"/>
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/krishnash648/krishnash648/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
 # 📬 Contact Me
 
 <p align="center">
@@ -147,7 +128,7 @@ https://github.com/krishnash648/terraform-aws-modules
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://linkedin.com">
+<a href="https://linkedin.com/in/krishna-sharma-539184215">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -163,4 +144,4 @@ https://github.com/krishnash648/terraform-aws-modules
 <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500"/>
 </p>
 
-✨ Building scalable systems with code and cloud!
+✨ Building real-world full stack applications with clean UI and scalable architecture.
