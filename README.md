@@ -227,18 +227,23 @@ A full-stack ticketing system with role-based access and admin controls.
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 Developer Snapshot
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=krishnash648&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+
+<img src="https://img.shields.io/badge/Code%20Quality-Clean%20%26%20Scalable-F59E0B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Projects-Real%20World%20Apps-F59E0B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Learning-Continuous-black?style=for-the-badge"/>
+
 </p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnash648&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
-</p>
+---
+
+# 💻 Coding Mode
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=krishnash648&theme=tokyonight&hide_border=true"/>
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500"/>
 </p>
 
 ---
