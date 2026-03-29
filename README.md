@@ -22,7 +22,23 @@ I specialize in clean UI, maintainable code, and real-world product development.
 
 # 🚀 Portfolio
 
+<table>
+<tr>
+<td width="65%">
+
+Explore my full portfolio showcasing real-world projects, clean UI design, and scalable full stack applications.
+
 🔗 https://portfolio-pi-eight-epcw8688vr.vercel.app
+
+</td>
+
+<td width="35%">
+<img src="./assets/portfolio.gif" width="100%"/>
+</td>
+</tr>
+</table>
+
+---
 
 ---
 
