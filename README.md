@@ -246,6 +246,14 @@ A full-stack ticketing system with role-based access and admin controls.
 <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500"/>
 </p>
 
+<p align="center">
+
+🚀 Building real-world full stack applications  
+⚡ Focused on clean UI & scalable architecture  
+🧠 Learning by shipping, not just watching tutorials  
+
+</p>
+
 ---
 
 # 📬 Contact Me
