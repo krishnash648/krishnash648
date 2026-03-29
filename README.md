@@ -230,11 +230,11 @@ A full-stack ticketing system with role-based access and admin controls.
 # 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=krishnash648&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=krishnash648&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnash648&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnash648&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 </p>
 
 <p align="center">
