@@ -135,7 +135,7 @@ A full-stack ticketing system with role-based access and admin controls.
 </td>
 
 <td width="35%">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100"/>
+<img src="https://media.giphy.com/media/QBd2kLB5qDmysEXre9/giphy.gif" width="100%"/>
 </td>
 </tr>
 </table>
