@@ -16,7 +16,7 @@
 
 I’m **Krishna Sharma**, a Full Stack Developer who builds scalable web applications with a strong focus on **clean UI, performance, and real-world usability**.
 
-I don’t just build features — I build **usable products**.
+I don’t just build features - I build **usable products**.
 
 ---
 
