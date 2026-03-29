@@ -51,9 +51,9 @@ I specialize in clean UI, maintainable code, and real-world product development.
 
 ## 💎 DashGenie – Admin Dashboard
 
-<p align="right">
-<img src="./assets/dashgenie.gif" width="260"/>
-</p>
+<table>
+<tr>
+<td width="65%">
 
 A modern admin dashboard built for managing tasks, analytics, and workflows with a clean UI.
 
@@ -65,15 +65,21 @@ A modern admin dashboard built for managing tasks, analytics, and workflows with
 
 🔗 https://krishnash648.github.io/DashGenie/
 
-<br clear="both"/>
+</td>
+
+<td width="35%">
+<img src="./assets/dashgenie.gif" width="100%"/>
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🛒 The Velvet Cart – E-commerce UI
 
-<p align="right">
-<img src="./assets/velvet-cart.gif" width="260"/>
-</p>
+<table>
+<tr>
+<td width="65%">
 
 A sleek and responsive e-commerce interface inspired by premium UI designs.
 
@@ -84,15 +90,21 @@ A sleek and responsive e-commerce interface inspired by premium UI designs.
 
 🔗 https://krishnash648.github.io/the-velvet-cart/
 
-<br clear="both"/>
+</td>
+
+<td width="35%">
+<img src="./assets/velvet-cart.gif" width="100%"/>
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🧾 Service Desk App – Ticket System
 
-<p align="right">
-<img src="./assets/portfolio.gif" width="260"/>
-</p>
+<table>
+<tr>
+<td width="65%">
 
 A full-stack ticketing system with role-based access and admin controls.
 
@@ -104,7 +116,13 @@ A full-stack ticketing system with role-based access and admin controls.
 
 🔗 https://service-desk-app-vegu.vercel.app/login
 
-<br clear="both"/>
+</td>
+
+<td width="35%">
+<img src="./assets/portfolio.gif" width="100%"/>
+</td>
+</tr>
+</table>
 
 ---
 
