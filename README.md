@@ -120,7 +120,7 @@ A sleek and responsive e-commerce interface inspired by premium UI designs.
 
 <table>
 <tr>
-<td width="65%">
+<td width="60%" valign="top">
 
 A full-stack ticketing system with role-based access and admin controls.
 
@@ -134,8 +134,8 @@ A full-stack ticketing system with role-based access and admin controls.
 
 </td>
 
-<td width="35%">
-<img src="https://media.giphy.com/media/QBd2kLB5qDmysEXre9/giphy.gif" width="100%"/>
+<td width="40%" align="center" valign="top">
+<img src="https://media.giphy.com/media/QBd2kLB5qDmysEXre9/giphy.gif" width="90%"/>
 </td>
 </tr>
 </table>
