@@ -35,7 +35,7 @@ I don’t just build features - I build **usable products**.
 <tr>
 <td width="60%">
 
-Explore my work — real projects with practical use cases and clean UI execution.
+Explore my work - real projects with practical use cases and clean UI execution.
 
 🔗 https://portfolio-pi-eight-epcw8688vr.vercel.app
 
@@ -63,7 +63,7 @@ Explore my work — real projects with practical use cases and clean UI executio
 
 ---
 
-### 💎 DashGenie – Admin Dashboard
+### 💎 DashGenie - Admin Dashboard
 
 <table>
 <tr>
@@ -90,7 +90,7 @@ Modern dashboard for managing workflows, analytics, and tasks.
 
 ---
 
-### 🛒 Velvet Cart – E-commerce UI
+### 🛒 Velvet Cart - E-commerce UI
 
 <table>
 <tr>
@@ -117,7 +117,7 @@ Premium e-commerce interface inspired by modern UI systems.
 
 ---
 
-### 🧾 Service Desk App – Ticket System
+### 🧾 Service Desk App - Ticket System
 
 <table>
 <tr>
